@@ -75,9 +75,9 @@ This project predicts diabetes risk using the Pima Indians Diabetes Dataset or s
    mkdir -p data plots results diabetes_predection_model
    ```
 
-## Pre-trained Model
+## Custom Pre-trained Model
 
-Download the pre-trained model from Kaggle:
+Download the Custom pre-trained model from Kaggle and skip training from scratch:
 **[Diabetes Prediction Model](https://www.kaggle.com/models/dawoodarain/diabetes_predection_model)**
 
 Extract and place the model files in the `diabetes_predection_model/` directory:
